@@ -7,7 +7,7 @@
 
 WDigest stores plaintext passwords in LSASS memory, which can be scraped by credential-dumping tools (e.g., Mimikatz). Disabling it forces Windows to skip the protocol entirely.
 
-## How we are fixing it
+## How I'm fixing it
 The scanner checks one registry value:
 
 | Field | Value |
