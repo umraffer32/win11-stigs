@@ -1,5 +1,7 @@
 # STIG #1 — WN11-CC-000038
 
+![STIG1](./images/WN11-CC-000038.png)
+
 ## What is the STIG ID?
 **WN11-CC-000038** — WDigest Authentication must be disabled.
 
