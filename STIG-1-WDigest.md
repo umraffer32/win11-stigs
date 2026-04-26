@@ -28,4 +28,5 @@ Get-ItemProperty -Path $path -Name "UseLogonCredential"
 ```
 
 ## Scan results verifying remediation
-_Paste Nessus re-scan result here (screenshot or text showing PASSED for WN11-CC-000038)._
+<img width="1113" height="707" alt="image" src="https://github.com/user-attachments/assets/4953ba2d-06f4-442b-9e27-cdc2ad4edc7d" />
+
