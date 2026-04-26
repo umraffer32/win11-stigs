@@ -1,6 +1,6 @@
 # STIG #1 — WN11-CC-000038
 
-<img src="images/000038.png" alt="WDigest scan result" width="100%">
+<img width="100%" height="114" alt="image" src="https://github.com/user-attachments/assets/0b8d801b-4a04-4a11-b15f-909edbde5c90" />
 
 ## What is the STIG ID?
 **WN11-CC-000038** — WDigest Authentication must be disabled.
